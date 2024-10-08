@@ -1,2 +1,2 @@
-# LocalTechnews.github.io
+# LocalTechnews
 LocalTechnews the webservice
