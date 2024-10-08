@@ -1,6 +1,5 @@
 # LocalTechnews
 LocalTechnews the webservice
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/license/gpl-3-0)
 
 ## Acknowledgements
 
@@ -41,7 +40,7 @@ If you have any feedback, please reach out to us at LocalTechnews@proton.me
 ## License
 
 [GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/)
-
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/license/gpl-3-0)
 
 ## Roadmap
 
