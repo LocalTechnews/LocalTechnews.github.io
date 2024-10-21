@@ -47,6 +47,7 @@ If you have any feedback, please reach out to us at LocalTechnews@proton.me
 
 - Q4 2024: Add support for more browsers if there is any.
 - Q1 2025: Introduce content suggestions and summaries.
+- Q2 2025: Fix The Browser on Phone cutting the left side
 
 ## Vision Diagram
 
