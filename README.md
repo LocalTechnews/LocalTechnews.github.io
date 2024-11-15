@@ -71,3 +71,7 @@ C --> D
 ## Get Started
 
 Ready to join LocalTechnews? [Send request](https://localtechnews.github.io) and we can start disgussing what would you like to add!
+
+## Important note
+
+Due to the absence of an editor-in-chief, most of our articles are generated with the assistance of AI. To maintain accuracy, a portion of the content—at least 10%—is independently verified for reliability.
