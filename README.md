@@ -1,7 +1,7 @@
 # LocalTechnews
 LocalTechnews is a web service that brings you up-to-date tech news, allowing users to contribute articles, add comments, and participate in discussions. The platform is designed for tech enthusiasts, journalists, and developers who want to stay informed and share knowledge.
 
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/license/gpl-3-0)
+![License: All Rights Reserved](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)
 [![LocalTechnews - Build Status V1.0](https://img.shields.io/badge/LocalTechnews-Build_Status_V1.0-darkred?style=for-the-badge)](https://)
 
 ## Acknowledgements
@@ -40,8 +40,8 @@ If you have any feedback, please reach out to us at LocalTechnews@proton.me
 
 ## License
 
-[GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/license/gpl-3-0)
+[All Rights Reserved](#)
+![License: All Rights Reserved](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)
 
 ## Roadmap
 
