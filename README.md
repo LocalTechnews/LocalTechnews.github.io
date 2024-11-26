@@ -41,6 +41,7 @@ If you have any feedback, please reach out to us at LocalTechnews@proton.me
 ## License
 
 [All Rights Reserved](#)
+
 ![License: All Rights Reserved](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)
 
 ## Roadmap
