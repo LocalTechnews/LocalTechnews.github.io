@@ -2,7 +2,7 @@
 LocalTechnews is a web service that brings you up-to-date tech news, allowing users to contribute articles, add comments, and participate in discussions. The platform is designed for tech enthusiasts, journalists, and developers who want to stay informed and share knowledge.
 
 ![License: All Rights Reserved](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)
-[![LocalTechnews - Build Status V1.0](https://img.shields.io/badge/LocalTechnews-Build_Status_V1.0-darkred?style=for-the-badge)](https://)
+[![LocalTechnews - Build Status V1.1](https://img.shields.io/badge/LocalTechnews-Build_Status_V1.0-darkred?style=for-the-badge)](https://)
 
 ## Acknowledgements
 We extend our deepest gratitude to everyone who has supported the LocalTechnews project. Your ideas, suggestions, and hard work have made this platform a reality, and your contributions have helped shape LocalTechnews into what it is today.
@@ -25,7 +25,7 @@ Special thanks to:
 ## FAQ
 
 #### Can I ask questions?
-Yes, feel free to reach out to us via email or our community forums.
+Yes, feel free to reach out to us via email.
 
 #### Why are there no questions here?
 We're waiting for someone to ask the first one... no pressure though.
@@ -61,6 +61,7 @@ A --> C(More coding knowledge)
 C --> E{Redo The articles code}
 B --> D{=Best News Around}
 C --> D
+D -- E
 ```
 
 ## Get Started
