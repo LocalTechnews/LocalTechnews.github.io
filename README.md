@@ -43,7 +43,7 @@ If you have any feedback, please reach out to us at LocalTechnews@proton.me
 ## Roadmap
 - ~~Q4 2024: Add situational board to home screen to inform of some current situation like for example of (chat) being on or off~~ (Completed)
 - ~~Q4 2024: Add support for more browsers if there is any.~~ (No changes, unknown browser support)
-- Q1 2025: Introduce content suggestions and summaries.
+- ~~Q1 2025: Introduce content suggestions and summaries.~~ (No Suggestion Were made)
 - Q2 2030: Fix The Browser on Phone cutting the left side
 
 ## Vision Diagram
@@ -55,13 +55,14 @@ This diagram represents our goals for the future:
 
 ```mermaid
 graph LR
-A[We aim to improve] -- Content writer --> B((More quality content))
-A --> B(Content writer for US)
-A --> C(More coding knowledge)
-C --> E{Redo The articles code}
-B --> D{=Best News Around}
+A[We aim to improve] -->|Content writer| B((More quality content))
+A -->|Content writer for US| B
+A -->|More coding knowledge| C
+C -->|Redo the article's code| E
+B --> D[Best News Around]
 C --> D
-D -- E
+D --> E
+
 ```
 
 ## Get Started
