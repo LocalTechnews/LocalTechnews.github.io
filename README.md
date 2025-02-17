@@ -55,13 +55,30 @@ This diagram represents our goals for the future:
 
 ```mermaid
 graph LR
-A["We aim to improve"] -->|Content writer| B(("More quality content"))
-A -->|Content writer for US| B
-A -->|More coding knowledge| C["More coding knowledge"]
-C -->|Redo the article's code| E["Redo The Article's Code"]
-B --> D["Best News Around"]
+%% Goals
+A["🏆 Enhancing Content Quality"] -->|✍️ Hiring Content Writers| B(("📰 More Quality Content"))
+A -->|🌍 Expanding Global Reach| B
+A --> C["🖥️ Improving Code Literacy"]
+C --> E["🔄 Refactor Article Code"]
+B --> D["🏆 Top-Tier Tech Journalism"]
 C --> D
 D --> E
+
+%% Needs
+A --> F["🎯 SEO Optimization"]
+A --> G["🎨 Better Visuals & UX"]
+A --> N["🌱 Long-Term Sustainability"]
+A --> M["🤝 Growing Volunteer Network"]
+
+%% Challenges
+C --> H["⚠️ Limited Developer Time"]
+B --> I["🚧 Ensuring Content Accuracy"]
+
+%% Outcomes (Non-Profit Focus)
+D --> J["🌍 Global Knowledge Sharing"]
+D --> K["💡 Open-Source Contribution"]
+D --> L["❤️ Empowering Future Writers & Coders"]
+D --> O["🤝 Partnerships with Other Tech Orgs"]
 ```
 
 ## Get Started
