@@ -55,14 +55,13 @@ This diagram represents our goals for the future:
 
 ```mermaid
 graph LR
-A[We aim to improve] -->|Content writer| B((More quality content))
+A["We aim to improve"] -->|Content writer| B(("More quality content"))
 A -->|Content writer for US| B
-A -->|More coding knowledge| C
-C -->|Redo the article's code| E
-B --> D[Best News Around]
+A -->|More coding knowledge| C["More coding knowledge"]
+C -->|Redo the article's code| E["Redo The Article's Code"]
+B --> D["Best News Around"]
 C --> D
 D --> E
-
 ```
 
 ## Get Started
